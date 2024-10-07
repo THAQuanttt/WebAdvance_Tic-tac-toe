@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/THAQuanttt/WebAdvance_Tic-tac-toe/static/css/main.67b17808.css",
+    "main.js": "/THAQuanttt/WebAdvance_Tic-tac-toe/static/js/main.648d2301.js",
+    "static/js/453.e036e8b5.chunk.js": "/THAQuanttt/WebAdvance_Tic-tac-toe/static/js/453.e036e8b5.chunk.js",
+    "index.html": "/THAQuanttt/WebAdvance_Tic-tac-toe/index.html",
+    "main.67b17808.css.map": "/THAQuanttt/WebAdvance_Tic-tac-toe/static/css/main.67b17808.css.map",
+    "main.648d2301.js.map": "/THAQuanttt/WebAdvance_Tic-tac-toe/static/js/main.648d2301.js.map",
+    "453.e036e8b5.chunk.js.map": "/THAQuanttt/WebAdvance_Tic-tac-toe/static/js/453.e036e8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67b17808.css",
+    "static/js/main.648d2301.js"
+  ]
+}
